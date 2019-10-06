@@ -22,6 +22,7 @@ After 5th epoch:
 ![result90](samples/train_05_0034.png)
 
 After 45th epoch:
+
 ![result90](samples/train_45_0014.png)
 
 
