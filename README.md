@@ -18,12 +18,16 @@ The dataset is not quite ideal because:
 ![result90](samples/training.gif)
 
 After 5th epoch:
+
 ![result90](samples/train_05_0034.png)
 
 After 45th epoch:
 ![result90](samples/train_45_0014.png)
 
+
+
 After 90th epoch:
+
 ![result90](samples/train_90_0029.png)
 
 Then I stopped the program because my laptop had been burning for a whole day!
