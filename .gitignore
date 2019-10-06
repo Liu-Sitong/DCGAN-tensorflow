@@ -1,5 +1,5 @@
 # Data
-data
+data/imgs
 samples
 *.zip
 logs
@@ -86,3 +86,5 @@ Session.vim
 .netrwhist
 *~
 
+*.iml
+*.xml
